@@ -1,0 +1,19 @@
+Required Libraries for Password Strength Checker
+
+* Built-in Python regex module (no need to install)
+re
+
+# === Optional/Future Modules ===
+
+# If you want to add GUI in the future
+tkinter
+
+# If you want to save logs or output to a file
+os
+datetime
+
+# If you plan to add password hash feature later
+hashlib
+
+# If you build a web app version in future
+streamlit
