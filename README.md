@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-This is a Python-based tool that checks the strength of a password.
+This is a Python3-based tool that checks the strength of a password.
 
 ## Features
 - Checks password length
