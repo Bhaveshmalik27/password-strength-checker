@@ -10,4 +10,4 @@ This is a Python3-based tool that checks the strength of a password.
 ## How to Run
 1. Open terminal or command prompt
 2. Navigate to project folder
-3. Run: `python password_checker.py`
+3. Run: `python3 Password strength cracker.py`
